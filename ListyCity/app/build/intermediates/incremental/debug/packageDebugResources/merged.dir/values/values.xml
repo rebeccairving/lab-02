@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add">Add</string>
+    <string name="addNew">Add!</string>
+    <string name="app_name">ListyCity</string>
+    <string name="delete">DELETE</string>
+    <string name="deleteNew">Delete!</string>
+    <string name="sample_text">sample_text</string>
+    <style name="Base.Theme.ListyCity" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ListyCity" parent="Base.Theme.ListyCity"/>
+</resources>

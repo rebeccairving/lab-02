@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_add
+id button_delete
+id city_list
+id content_view
+id main
+layout activity_main
+layout context
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add
+string addNew
+string app_name
+string delete
+string deleteNew
+string sample_text
+style Base.Theme.ListyCity
+style Theme.ListyCity
+xml backup_rules
+xml data_extraction_rules
